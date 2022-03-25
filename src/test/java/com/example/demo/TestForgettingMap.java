@@ -1,10 +1,9 @@
 package com.example.demo;
 
-import com.example.demo.impl.ForgettingMap;
+import com.example.demo.collections.impl.ForgettingMap;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
-import java.util.HashMap;
 import java.util.Objects;
 
 import static org.springframework.test.util.AssertionErrors.assertEquals;

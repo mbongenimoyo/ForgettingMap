@@ -1,7 +1,7 @@
-package com.example.demo.impl;
+package com.example.demo.collections.impl;
 
 import com.example.demo.Association;
-import com.example.demo.ForgettingCollection;
+import com.example.demo.collections.ForgettingCollection;
 
 import java.util.*;
 

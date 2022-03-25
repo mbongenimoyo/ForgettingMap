@@ -1,4 +1,6 @@
-package com.example.demo;
+package com.example.demo.collections;
+
+import com.example.demo.Association;
 
 import java.util.Map;
 /*
